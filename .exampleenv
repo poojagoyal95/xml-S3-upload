@@ -1,0 +1,4 @@
+Url=https://registers.esma.europa.eu/solr/esma_registers_firds_files/select?q=*&fq=publication_date:%5B2020-01-08T00:00:00Z+TO+2020-01-08T23:59:59Z%5D&wt=xml&indent=true&start=0&rows=100
+ACCESS_KEY_ID =xxxxx
+ACCESS_SECRET_KEY =xxxxxx
+BUCKET_NAME =xxxxx
